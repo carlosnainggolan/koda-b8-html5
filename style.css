@@ -173,3 +173,9 @@ main {
     top: 0;
     z-index: 100;
 }
+
+footer {
+    vertical-align: middle;
+    background-color: aliceblue;
+    text-align: center;
+}
